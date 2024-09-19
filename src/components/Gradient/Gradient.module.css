@@ -1,0 +1,14 @@
+.gradient{
+    width: 200px;
+    height: 120px;
+    border-radius: 233px;
+    transform: rotate(115deg);
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgba(244, 44, 55, 0.56) 98.77%,
+      rgba(255, 255, 255, 0) 98.78%
+    );
+    filter: blur(150px);
+  }
+  
