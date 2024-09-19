@@ -1,0 +1,11 @@
+.logo {
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #FFF;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  color: transparent; /* Usé 'transparent' en vez de 'none' porque 'none' no es válido para la propiedad 'color' */
+}
