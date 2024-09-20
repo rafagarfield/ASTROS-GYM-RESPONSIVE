@@ -23,7 +23,8 @@ function Program() {
         <div className='w-[90%] text-white bg-[#1F2125] border border-[#949494] rounded-[20px] p-[18px] flex flex-col gap-3' >
             <div className='flex flex-col gap-7'>
             <Image
-              src="https://res.cloudinary.com/df5rqpdzh/image/upload/v1726371584/aerobicos_riemjp.svg"
+              src="https://res.cloudinary.com/df5rqpdzh/image/upload/v1726371584/bicicleta_k5bt6q.svg"
+              
               alt="Programa 2"
               width={50}
               height={50}
@@ -37,7 +38,7 @@ function Program() {
         <div className='w-[90%] text-white bg-[#1F2125] border border-[#949494] rounded-[20px] p-[18px] flex flex-col gap-3' >
             <div className='flex flex-col gap-7'>
             <Image
-              src="https://res.cloudinary.com/df5rqpdzh/image/upload/v1726371584/bicicleta_k5bt6q.svg"
+              src="https://res.cloudinary.com/df5rqpdzh/image/upload/v1726371584/aerobicos_riemjp.svg"
               alt="Programa 3"
               width={50}
               height={50}
