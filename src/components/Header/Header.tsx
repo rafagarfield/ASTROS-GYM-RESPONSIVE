@@ -9,7 +9,7 @@ function Header() {
         <h1 className='text-[35px] text-center font-semibold text-white mb-0'>¡Hola! ,Bienvenido a </h1>
             <span className='text-[35px]  font-semibold text-red-600'>ASTROS <span className='text-white'>GYM</span> </span>
             <div className='flex justify center '> 
-            <span className='text-[#F4D58D] text-center p-0'>Gimnasios | Quiropráxia</span>
+            <span className='text-[#F4D58D] text-center p-0'>Gimnasios | Quiropráxia | Bienestar </span>
             </div>
        
         <div className=" absolute top-[0px] left-[0px]">
