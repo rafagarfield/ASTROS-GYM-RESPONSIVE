@@ -14,10 +14,10 @@ function Program() {
               width={50}
               height={50}
             />
-            <h3 className='text-[18px] font-bold'>Entrenamiento personalizado</h3>
+            <h3 className='text-[20px] font-bold'>Entrenamiento personalizado</h3>
             </div>
         
-            <p className='text-[14px] font-normal'>Obtén un plan de entrenamiento a medida con el apoyo de nuestros entrenadores personales. Diseñaremos un programa adaptado a tus objetivos y necesidades específicas, asegurando que cada sesión sea efectiva y motivadora.</p>
+            <p className='text-[16px] font-normal'>Obtén un plan de entrenamiento a medida con el apoyo de nuestros entrenadores personales. Diseñaremos un programa adaptado a tus objetivos y necesidades específicas, asegurando que cada sesión sea efectiva y motivadora.</p>
         </div>
 
         <div className='w-[90%] text-white bg-[#1F2125] border border-[#949494] rounded-[20px] p-[18px] flex flex-col gap-3' >
@@ -29,10 +29,10 @@ function Program() {
               width={50}
               height={50}
             />
-            <h3 className='text-[18px] font-bold'>Spinning</h3>
+            <h3 className='text-[20px] font-bold'>Spinning</h3>
             </div>
         
-            <p className='text-[14px] font-normal'>Súbete a la bicicleta y únete a nuestras dinámicas clases de Spinning. Diseñadas para mejorar tu resistencia cardiovascular y quemar calorías, estas sesiones de alta energía te motivarán a alcanzar nuevos niveles de fitness. Ideal para todos los niveles de experiencia.</p>
+            <p className='text-[16px] font-normal'>Súbete a la bicicleta y únete a nuestras dinámicas clases de Spinning. Diseñadas para mejorar tu resistencia cardiovascular y quemar calorías, estas sesiones de alta energía te motivarán a alcanzar nuevos niveles de fitness. Ideal para todos los niveles de experiencia.</p>
         </div>
 
         <div className='w-[90%] text-white bg-[#1F2125] border border-[#949494] rounded-[20px] p-[18px] flex flex-col gap-3' >
@@ -43,14 +43,11 @@ function Program() {
               width={50}
               height={50}
             />
-            <h3 className='text-[18px] font-bold'>Aeróbicos</h3>
+            <h3 className='text-[20px] font-bold'>Aeróbicos</h3>
             </div>
         
-            <p className='text-[14px] font-normal'>Disfruta de nuestras clases de aeróbicos llenas de energía, donde podrás mejorar tu resistencia cardiovascular, quemar calorías y tonificar tu cuerpo.  estas sesiones son perfectas para todos los niveles y te ayudarán a mantenerte en forma mientras te diviertes.</p>
+            <p className='text-[16px] font-normal'>Disfruta de nuestras clases de aeróbicos llenas de energía, donde podrás mejorar tu resistencia cardiovascular, quemar calorías y tonificar tu cuerpo.  estas sesiones son perfectas para todos los niveles y te ayudarán a mantenerte en forma mientras te diviertes.</p>
         </div>
-
-        
-
       </div>
     </div>
   )
