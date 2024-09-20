@@ -8,7 +8,7 @@ function Header() {
       <div className='w-full flex flex-col justify-center items-center gap-2'>
         <h1 className='text-[35px] text-center font-semibold text-white mb-0'>¡Hola! ,Bienvenido a </h1>
             <span className='text-[35px]  font-semibold text-red-600'>ASTROS <span className='text-white'>GYM</span> </span>
-        <p className='text-[#F4D58D] text-center p-0'>Gimnasios | Quiropráxia</p>
+        <span className='text-[#F4D58D] text-center p-0'>Gimnasios | Quiropráxia</span>
         <div className=" absolute top-[0px] left-[0px]">
           <Gradient />
         </div>
