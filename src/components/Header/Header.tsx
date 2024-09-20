@@ -12,7 +12,7 @@ function Header() {
             <span className='text-[#F4D58D] text-center p-0'>Gimnasios | Quiropráxia | Bienestar </span>
             </div>
        
-        <div className=" absolute top-[0px] left-[0px]">
+        <div className=" absolute top-[296px] left-[-113px]">
           <Gradient />
         </div>
         <Image className='flex justify-center items-center' src="https://res.cloudinary.com/df5rqpdzh/image/upload/v1726356080/model_qg7s4i.svg" alt='' width={300} height={400}/>
