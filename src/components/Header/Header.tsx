@@ -1,15 +1,13 @@
 import React from 'react'
 import Image from 'next/image'
 import Gradient from '../Gradient/Gradient'
-import styles from "../Header/Header.module.css"
+// import styles from "../Header/Header.module.css"
 function Header() {
   return (
     <div>
       <div className='w-full flex flex-col justify-center items-center gap-2'>
-        <h1 className='text-[32px] text-center font-semibold text-white'>¡Hola! ,Bienvenido a </h1>
-        <div className='w-[76%] bg-[#f42c3742] text-center'>
-            <span className={styles.logo}>ASTROS GYM</span>
-        </div>
+        <h1 className='text-[32px] text-center font-semibold text-white mb-0'>¡Hola! ,Bienvenido a </h1>
+            <span className='text-[32px]  font-semibold text-red-600'>ASTROS <span className='text-white'>GYM</span> </span>
         <p className='text-[#F4D58D] text-center'>Gimnasio | Quiropráxia | Bienestar</p>
         <div className=" absolute top-[0px] left-[0px]">
           <Gradient />
