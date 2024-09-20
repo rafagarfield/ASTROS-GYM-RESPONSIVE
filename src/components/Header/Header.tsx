@@ -6,8 +6,8 @@ function Header() {
   return (
     <div>
       <div className='w-full flex flex-col justify-center items-center gap-2'>
-        <h1 className='text-[32px] text-center font-semibold text-white mb-0'>¡Hola! ,Bienvenido a </h1>
-            <span className='text-[32px]  font-semibold text-red-600'>ASTROS <span className='text-white'>GYM</span> </span>
+        <h1 className='text-[35px] text-center font-semibold text-white mb-0'>¡Hola! ,Bienvenido a </h1>
+            <span className='text-[35px]  font-semibold text-red-600'>ASTROS <span className='text-white'>GYM</span> </span>
         <p className='text-[#F4D58D] text-center'>Gimnasio | Quiropráxia | Bienestar</p>
         <div className=" absolute top-[0px] left-[0px]">
           <Gradient />
