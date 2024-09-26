@@ -11,7 +11,7 @@ export function AppleCardsCarouselDemo() {
   return (
     <div className="w-full h-full py-20">
       <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-neutral-800 dark:text-neutral-200 font-sans">
-        Get to know your iSad.
+         Define tus objetivos
       </h2>
       <Carousel items={cards} />
     </div>
@@ -52,38 +52,38 @@ const DummyContent = () => {
 
 const data = [
   {
-    // category: "Incrementa tu masa muscular",
+    category: "Astros Gym",
     title: "Incrementa tu masa muscular",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727386762/athletic-person-exercising-working-out_uwgc7z.jpg",
     content: <DummyContent />,
   },
   {
-    // category: "Productivity",
+    category: "Astros Gym",
     title: "Reduce tu grasa corporal",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727387411/young-fitness-woman-measure-with-tape-her-belly-isolated-white-wall_ert32j.jpg",
     content: <DummyContent />,
   },
   {
-    // category: "Product",
+    category: "Astros Gym",
     title: "Quema Calorias con los aeromasacres",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727388336/wallpaperflare.com_wallpaper_z6uwl6.jpg",
     content: <DummyContent />,
   },
 
   {
-    // category: "Product",
+    category: "Astros Gym",
     title: "Mantente saludable",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727388844/young-women-taking-part-spinning-class_1_ki4pu6.jpg",
     content: <DummyContent />,
   },
   {
-    // category: "iOS",
+    category: "Astros Gym",
     title: "Cuida tu cuerpo",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727388988/high-angle-young-woman-gym_nyonme.jpg",
     content: <DummyContent />,
   },
   {
-    // category: "Hiring",
+    category: "Astros Gym",
     title: "Quiropraxia Especializada",
     src: "https://res.cloudinary.com/df5rqpdzh/image/upload/v1727389178/osteopathy-patoient-getting-tretment-massage_yyoraz.jpg",
     content: <DummyContent />,
